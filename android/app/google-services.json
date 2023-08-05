@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536794071595",
+    "project_id": "donateblood-auth",
+    "storage_bucket": "donateblood-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536794071595:android:9e819d3b4659f84758206e",
+        "android_client_info": {
+          "package_name": "com.bloodscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536794071595-587p33jr560jt1ucdops0d00fkold586.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1gMGDIGa6OK0-3Q2eXKR4K7Bm2vCUyjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536794071595-587p33jr560jt1ucdops0d00fkold586.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
